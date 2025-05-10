@@ -2,8 +2,13 @@ import React from 'react';
 import { Helmet } from 'react-helmet';
 
 import Header from '../components/Header';
+import TopDoctors from '../components/TopDoctors';
+import Banner from '../components/Banner';
+import Footer from '../components/Footer';
 
-import './Home.css'
+
+
+import './Home.css';
 
 const Home = () => {
   return (
@@ -17,6 +22,25 @@ const Home = () => {
         <Header />
       </div>
 
+      {/* Main Content */}
+      <main className="flex-grow">
+       
+
+      
+   
+
+        {/* Top Doctors */}
+        <TopDoctors />
+
+         {/* Banner Section */}
+         <Banner />
+
+      
+     
+      </main>
+
+      {/* Footer */}
+      <Footer />
     </div>
   );
 };
