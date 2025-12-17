@@ -16,6 +16,17 @@
 
 ---
 
+## 🚀 Live Demo
+
+### 🌐 **Live Application**
+👉 **[Visit CareSlotter](https://care-slotter-doctor-appointment.onrender.com/)**
+
+### ** Demo video **
+👉 **[Watch CareSlotter](https://youtu.be/LwqJg6_HLv0?si=nPqWMLpGRJLUpFIb)**
+
+Experience the full application with all features enabled!
+
+---
 ## 📋 Table of Contents
 
 - [✨ Features](#-features)
@@ -84,14 +95,6 @@
 - 📊 **Dashboard** - Overview of platform statistics
 - 🔒 **Secure Admin Panel** - Protected admin routes
 
----
-
-## 🚀 Live Demo
-
-### 🌐 **Live Application**
-👉 **[Visit CareSlotter](https://care-slotter-doctor-appointment.onrender.com/)**
-
-Experience the full application with all features enabled!
 
 ---
 
