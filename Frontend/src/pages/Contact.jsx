@@ -35,7 +35,7 @@ const Contact = () => {
                 <p className="text-lg font-semibold text-rose-600">Get in Touch</p>
                 <p className="mt-1">
                   <a href="tel:+918347394206" className="text-blue-600 hover:underline">
-                    +91 8347394206
+                    +91 9945154154
                   </a>
                 </p>
                 <p>
@@ -141,7 +141,7 @@ const Contact = () => {
             <FaMapMarkerAlt className="text-rose-600 text-4xl mx-auto mb-4" />
             <h3 className="text-xl font-semibold text-gray-800 mb-2">Visit Us</h3>
             <p className="text-gray-600">
-              Stop by our office for a face-to-face conversation with our team.
+              Stop by our office for a face-to-face conversation with our team..
             </p>
             <button
               onClick={() => navigate("/location")}
