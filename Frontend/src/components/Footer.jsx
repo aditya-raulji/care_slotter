@@ -21,7 +21,7 @@ const Footer = () => {
             CareSlotter is a registered startup empaneled with 10,000+ Doctors,
             500+ Hospitals, and has impacted over 2 million patients.
           </p>
-          {/* Social Media Links */}
+
           <div className="flex gap-4 mt-4">
             <FaFacebook className="text-pink-500 text-2xl hover:scale-110 transition-all cursor-pointer" />
             <FaTwitter className="text-pink-500 text-2xl hover:scale-110 transition-all cursor-pointer" />
@@ -29,7 +29,7 @@ const Footer = () => {
           </div>
         </div>
 
-        {/* Center Section */}
+     
         <nav>
           <p className="text-lg font-medium mb-5 text-black">Company</p>
           <ul className="flex flex-col gap-2">
@@ -44,7 +44,6 @@ const Footer = () => {
           </ul>
         </nav>
 
-        {/* Right Section */}
         <nav>
           <p className="text-lg font-medium mb-5 text-black">Get in Touch</p>
           <ul className="flex flex-col gap-2">
@@ -60,7 +59,6 @@ const Footer = () => {
         </nav>
       </div>
 
-      {/* Bottom Section */}
       <hr className="border-gray-600" />
       <p className="py-5 text-sm text-center text-gray-400">
         © {new Date().getFullYear()} CareSlotter. All rights reserved.
